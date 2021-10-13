@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: #83e6f3;
+  padding-top: 6rem;
+}
+
+#projects {
+  background-color: #83e6f3;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
